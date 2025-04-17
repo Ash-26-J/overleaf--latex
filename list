@@ -1,0 +1,10 @@
+// used for creating list
+\begin{enumerate}
+\item
+\item
+\end{enumerate}
+
+\begin{itemize}
+\item vehicle
+\item ai
+\end{itemize
