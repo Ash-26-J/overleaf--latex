@@ -1,3 +1,5 @@
+\documentclass{article}
+\uspepackage[utf8]{inputenc}
 \title //project title
 \author{} //author name
 \date{}
