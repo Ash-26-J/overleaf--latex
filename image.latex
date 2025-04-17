@@ -1,0 +1,8 @@
+\underline{} // all nested commands
+//image
+\begin{figure}
+\centering
+\includegraphics{}{}
+\caption{}
+\label{}
+\end{figure}
