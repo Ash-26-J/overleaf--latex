@@ -9,3 +9,15 @@
 \section{introduction}
 this is a doc
 \end{document}
+//for equations
+\usepackage{mathtools}
+example-$y=x^2$//y=x^2
+//subsection
+\subsection{}
+\begin{itemize}
+\item first item
+ 
+\item 
+\textbf{second item}//puts in bullet
+\textit{first}//puts in itallic
+\end{itemize}
