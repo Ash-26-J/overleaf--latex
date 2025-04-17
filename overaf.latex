@@ -1,0 +1,9 @@
+\title //project title
+\author{} //author name
+\date{}
+//begining a documebnt
+\begin{document}
+\markettitle
+\section{introduction}
+this is a doc
+\end{document}
